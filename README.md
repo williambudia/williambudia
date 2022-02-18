@@ -22,12 +22,12 @@
 <br>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Alan-Js" height="6%" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Alan-Ts" height="6%" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Alan-React" height="6%" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Alan-HTML" height="6%" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Alan-CSS" height="6%" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Alan-Csharp" height="6%" width="6%" src="https://cdn.worldvectorlogo.com/logos/storybook-1.svg">
+  <img align="center" alt="William-Js" height="6%" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="William-Ts" height="6%" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="William-React" height="6%" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="William-HTML" height="6%" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="William-CSS" height="6%" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="William-Csharp" height="6%" width="6%" src="https://cdn.worldvectorlogo.com/logos/storybook-1.svg">
 </div>
 <br>
 
