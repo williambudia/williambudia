@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 Sobre o William </h3>
 
-- 🔭 &nbsp; Atualmente trabalhando para Kumulus Data & Cloud.
+- 🔭 &nbsp; Desenvolvedor Mobile na Superlógica Tecnologias.
 - 💼 &nbsp; Desenvolvedor Front-End.
 - 🎓 &nbsp; Graduado em Ciência da Computação.
 - 🤔 &nbsp; Explorando novas tecnologias.
